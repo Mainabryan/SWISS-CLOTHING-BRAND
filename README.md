@@ -1,4 +1,4 @@
-🛍️💰 Clothing Retail Analytics Project
+###🛍️💰 Clothing Retail Analytics Project
 
 Empowering a small Swiss clothing retail business to save money, save time, and increase income through data-driven insights.
 
